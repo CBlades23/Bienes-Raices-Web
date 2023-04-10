@@ -73,7 +73,7 @@ class PaginasController
             $mail = new PHPMailer();
 
             $mail->isSMTP();
-            $mail->Host = 'sandbox.smtp.mailtrap.io';
+            $mail->Host = 'smtp.hostinger.com';
             $mail->SMTPAuth = true;
             $mail->Username = '3807639f52e46f';
             $mail->Password = '693f3d6dee00eb';

@@ -28,8 +28,8 @@ if (!isset($inicio)) {
         <div class="contenedor contenido-header">
             <div class="barra">
                 <div class="menu-responsive">
-                    <a href="/index.php" class="titulo">
-                        <img src="/build/img/logoC.svg" alt="Logotipo de Bienes raices">
+                    <a href="/" class="titulo">
+                        <img src="/build/img/LogoN.png" alt="Logotipo de Bienes raices">
                     </a>
 
                     <div class="mobile-menu">

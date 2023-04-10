@@ -16,7 +16,7 @@
         ?>  
 
         <div class="alinear-derecha">
-            <a href="anuncios.html" class="boton-verde"> Ver todas</a>
+            <a href="/propiedades" class="boton-verde"> Ver todas</a>
         </div>
     </section>
 
@@ -27,7 +27,7 @@
     <section class="imagen-contacto"> 
         <h2>Obten la casas de tu sueños</h2>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit, Pariatur quidem.</p>
-        <a href="contacto.php" class="boton-naranja">Contáctanos</a>
+        <a href="/contacto" class="boton-naranja">Contáctanos</a>
     </section>
 
     <!--FIN DE IMAGEN DE BOTON CONTACTO-->
@@ -46,7 +46,7 @@
                 </div>
 
                 <div class="texto-entrada">
-                    <a href="entrada.php">
+                    <a href="/entrada">
                         <h4>Terraza en el techo de tu casa</h4>
                         <p class="informacion-meta">Escrito el: <span>25/11/2022</span> por: <span>Admin</span></p>
 
@@ -65,7 +65,7 @@
                 </div>
 
                 <div class="texto-entrada">
-                    <a href="entrada.php">
+                    <a href="/entrada">
                         <h4>Guía para la decoración de tu hogar</h4>
                         <p class="informacion-meta">Escrito el: <span>25/11/2022</span> por: <span>Admin</span></p>
 
